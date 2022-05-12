@@ -1,1 +1,1 @@
-# yandex_practikum_project
+# бекенд сайта на python с использованием фраймворка Django
