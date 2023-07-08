@@ -1,1 +1,1 @@
-# бекенд сайта на python с использованием фраймворка Django
+Django test backend
