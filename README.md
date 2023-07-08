@@ -1,1 +1,1 @@
-Django test backend
+Trial development of backend on django
